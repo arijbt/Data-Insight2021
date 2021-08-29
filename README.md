@@ -6,23 +6,23 @@ Course Highlight
 Courses in the Data Scientist Program are developed by data science experts in industry and academia. They will help you to develop both programming and data science skills.
 
 - Programming in Python
--Python for Data Science
--Shell for Data Science
--Git/GitHub for Data Science
--Data Science Toolbox
--Importing Data in Python
--Data Cleaning
--Pandas Foundations
--Data Manipulation
--Data Analysis
--Data Visualization
--SQL for Data Science
--Statistical Thinking
--Machine Learning
--Supervised Learning
-Unsupervised Learning
--Deep Learning
--Neural Networks
+- Python for Data Science
+- Shell for Data Science
+- Git/GitHub for Data Science
+- Data Science Toolbox
+- Importing Data in Python
+- Data Cleaning
+- Pandas Foundations
+- Data Manipulation
+- Data Analysis
+- Data Visualization
+- SQL for Data Science
+- Statistical Thinking
+- Machine Learning
+- Supervised Learning
+- Unsupervised Learning
+- Deep Learning
+- Neural Networks
 
 Projects
 
