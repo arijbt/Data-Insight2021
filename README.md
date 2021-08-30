@@ -1,4 +1,7 @@
 # Data-Insight2021
+
+This repo is for the projects and assignments of data insight's data science training program.
+
 Data Insight's Data Scientist Program is a comprehensive online data science training that covers all that you need to begin your journey towards becoming a Data Scientist. Over a period of 1 year, you will develop the technical skills to program in Python and learn how to use this powerful tool to collect, analyze and interpret complex data and to build predictive machine learning models.
 
 1- Course Highlight
